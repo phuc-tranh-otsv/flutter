@@ -64,7 +64,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [phuc-tranh-otsv/flutter](https://github.com/phuc-tranh-otsv/flutter)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|141<br/>Tools used|02/27/24 <br/>Report generated|
+|141<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
